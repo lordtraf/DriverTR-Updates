@@ -1,6 +1,6 @@
 ﻿{
-  "version": "0.14.0",
-  "downloadUrl": "https://github.com/lordtraf/DriverTR-Updates/releases/download/v0.14.0/DriverTR_Update_v0.14.0.exe",
-  "sha256": "A0B7B4694BDD2EF67F2B6CC774BB84C7124BA28C08A9D499E2F6BA4E423A2C6A",
-  "releaseNotes": "DriverTR 0.14.0: restore directly from a prepared project on a non-system disk; explanations for device error codes; stable fixed table layout; updater size reduced by more than half."
+    "version":  "0.14.2",
+    "downloadUrl":  "https://github.com/lordtraf/DriverTR-Updates/releases/download/v0.14.2/DriverTR_Update_v0.14.2.exe",
+    "sha256":  "168CDC113D33778D9284B95FCD88DD5676C6AA5E52167E32E1F36380E46EC978",
+    "releaseNotes":  "DriverTR 0.14.2: keeps driver names visible in the update table and adds safe horizontal scrolling."
 }
