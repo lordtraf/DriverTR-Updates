@@ -1,0 +1,6 @@
+﻿{
+    "version":  "0.13.0",
+    "downloadUrl":  "https://github.com/lordtraf/DriverTR-Updates/releases/download/v0.13.0/DriverTR_Update_v0.13.0.exe",
+    "sha256":  "3E90780F5299A56AFD8FAA07341316CF4ED0FBB4B7AD8934CEB275CBD7FAFD1D",
+    "releaseNotes":  "DriverTR 0.13.0: secure online updates over HTTPS with SHA-256 verification."
+}
