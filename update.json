@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "0.15.0",
-    "downloadUrl":  "https://github.com/lordtraf/DriverTR-Updates/releases/download/v0.15.0/DriverTR_Update_v0.15.0.exe",
-    "sha256":  "52E99E2DE1F169B7FD151B4050D48E99E6E7AA620EAF4E230B8D0F31A7693BF0",
-    "releaseNotes":  "DriverTR 0.15.0: safe rollback for problem-device drivers and resilient multi-source scanning when Windows Update is unavailable."
+    "version":  "0.16.0",
+    "downloadUrl":  "https://github.com/lordtraf/DriverTR-Updates/releases/download/v0.16.0/DriverTR_Update_v0.16.0.exe",
+    "sha256":  "12BB163125F579ACE156A231B650AC144000212AEE74CB2B7CAA64A551041E89",
+    "releaseNotes":  "DriverTR 0.16.0: remembers known-good driver archives, restores them directly, and lets the user update an existing archive or create a new one."
 }
