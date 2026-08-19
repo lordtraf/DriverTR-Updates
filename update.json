@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "0.19.0",
-    "downloadUrl":  "https://github.com/lordtraf/DriverTR-Updates/releases/download/v0.19.0/DriverTR_Update_v0.19.0.exe",
-    "sha256":  "8A7B1A928A2CA486F72C87A2B7DFC6672CFFD63DA0D9B6BB205BEE104FFC64FD",
-    "releaseNotes":  "DriverTR 0.19.0: fixes the v0.18 startup crash and adds safe manual driver installation from Downloads, INF, ZIP, EXE or MSI."
+    "version":  "0.20.0",
+    "downloadUrl":  "https://github.com/lordtraf/DriverTR-Updates/releases/download/v0.20.0/DriverTR_Update_v0.20.0.exe",
+    "sha256":  "4B5DF90894C708F00120445C417C01E8DD0227188E503EB1463260BEAAB398DC",
+    "releaseNotes":  "DriverTR 0.20.0: expanded PC hardware information, verified external driver installation, and foreground updater notifications."
 }
