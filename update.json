@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "0.17.0",
-    "downloadUrl":  "https://github.com/lordtraf/DriverTR-Updates/releases/download/v0.17.0/DriverTR_Update_v0.17.0.exe",
-    "sha256":  "11860C28BC5F8D20E8976587AEBCD66B28C50CB7BDF9D001442085E185FC1DE9",
-    "releaseNotes":  "DriverTR 0.17.0: autonomous rollback from a saved Recovery Kit, archived driver version matching, and copyable problem-device details."
+    "version":  "0.18.0",
+    "downloadUrl":  "https://github.com/lordtraf/DriverTR-Updates/releases/download/v0.18.0/DriverTR_Update_v0.18.0.exe",
+    "sha256":  "F40EBEBB21C3192FAC31705698D364F228B4A5DA69ACE50E5E8B9C8DCBA17759",
+    "releaseNotes":  "DriverTR 0.18.0: missing-driver detection, hardware-ID based official recommendations, BIOS diagnostics, and safer archive repair."
 }
