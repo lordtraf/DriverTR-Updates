@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "0.20.0",
-    "downloadUrl":  "https://github.com/lordtraf/DriverTR-Updates/releases/download/v0.20.0/DriverTR_Update_v0.20.0.exe",
-    "sha256":  "4B5DF90894C708F00120445C417C01E8DD0227188E503EB1463260BEAAB398DC",
-    "releaseNotes":  "DriverTR 0.20.0: expanded PC hardware information, verified external driver installation, and foreground updater notifications."
+    "version":  "0.21.5",
+    "downloadUrl":  "https://github.com/lordtraf/DriverTR-Updates/releases/download/v0.21.5/DriverTR_Update_v0.21.5.exe",
+    "sha256":  "52B41DDF21A4494F78D787D0D630917CAF6EA4B0A6897F725D2D9CBCC3699708",
+    "releaseNotes":  "DriverTR 0.21.5: direct official driver downloads and installation, exact Hardware-ID matching, visible per-driver progress, active-version verification, restart status, and persistent rollback availability."
 }
